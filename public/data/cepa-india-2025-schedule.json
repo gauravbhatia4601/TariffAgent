@@ -1,0 +1,115 @@
+[
+  {
+    "hs_prefix": "61",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "All 61 items from India \u2013 0% from Year 3 (2025)"
+  },
+  {
+    "hs_prefix": "62",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "All 62 items from India \u2013 0% from Year 3 (2025)"
+  },
+  {
+    "hs_prefix": "09",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Food products and spices \u2013 immediate elimination"
+  },
+  {
+    "hs_prefix": "10",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Food products and spices \u2013 immediate elimination"
+  },
+  {
+    "hs_prefix": "71",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Gems & jewellery \u2013 0% from 2025"
+  },
+  {
+    "hs_prefix": "84",
+    "cepa_2025_duty": 1.0,
+    "base_duty": 5.0,
+    "note": "Machinery \u2013 reduced to 1%"
+  },
+  {
+    "hs_prefix": "85",
+    "cepa_2025_duty": 2.0,
+    "base_duty": 5.0,
+    "note": "Electronics & phones \u2013 reduced to 2%"
+  },
+  {
+    "hs_prefix": "72",
+    "cepa_2025_duty": 3.0,
+    "base_duty": 5.0,
+    "note": "Iron & steel \u2013 phased reduction"
+  },
+  {
+    "hs_prefix": "03",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 03 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "08",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 08 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "16",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 16 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "20",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 20 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "50",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 50 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "51",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 51 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "52",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 52 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "53",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 53 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "54",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 54 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "55",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Chapter 55 items \u2013 0% duty"
+  },
+  {
+    "hs_prefix": "default",
+    "cepa_2025_duty": null,
+    "note": "No CEPA benefit \u2013 use standard GCC rate"
+  }
+]

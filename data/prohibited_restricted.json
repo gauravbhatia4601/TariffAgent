@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "version": "2025.1",
+    "effective_date": "2025-01-01",
+    "authority": "UAE Federal Customs Authority (FCA)",
+    "description": "Prohibited and restricted items for import into UAE with documentation requirements",
+    "source": "UAE Customs Law, Cabinet Decisions, and Ministry Regulations",
+    "last_updated": "2025-01-15",
+    "important_note": "This list is not exhaustive. Always verify current regulations with UAE Customs before import."
+  },
+  "prohibited_items": [
+    {
+      "item_id": "PROH-001",
+      "category": "narcotics_psychotropics",
+      "item_name": "Narcotic drugs and psychotropic substances",
+      "description_en": "All forms of illegal narcotics including heroin, cocaine, cannabis, synthetic drugs, and precursor chemicals",
+      "description_ar": "جميع أشكال المخدرات غير القانونية بما في ذلك الهيروين والكوكايين والحشيش والمخدرات الاصطناعية",
+      "hs_codes_affected": ["2939.11", "2939.20", "2939.91", "1211.90"],
+      "prohibition_level": "ABSOLUTE",
+      "penalty": "Severe criminal penalties including imprisonment and heavy fines under UAE anti-narcotics laws",
+      "warning_message": "严禁 STRICTLY PROHIBITED - Import will result in immediate seizure, arrest, and prosecution. Life imprisonment or death penalty may apply.",
+      "legal_reference": "Federal Law No. 14 of 1995 on Countermeasures Against Narcotic Drugs and Psychotropic Substances",
+      "exemptions": "Licensed pharmaceutical manufacturers with Ministry of Health approval only"
+    },
+    {
+      "item_id": "PROH-002",
+      "category": "weapons_explosives",
+      "item_name": "Weapons, explosives, and military equipment",
+      "description_en": "Firearms, ammunition, explosives, military-grade equipment, and weapon parts without proper authorization",
+      "description_ar": "أسلحة نارية وذخائر ومتفجرات ومعدات عسكرية بدون ترخيص مناسب",
+      "hs_codes_affected": ["9301", "9302", "9303", "9304", "9305", "9306", "3601", "3602", "3603", "3604"],
+      "prohibition_level": "ABSOLUTE_WITHOUT_LICENSE",
+      "penalty": "Criminal prosecution, imprisonment, heavy fines",
+      "warning_message": "PROHIBITED WITHOUT LICENSE - Requires special import permit from Ministry of Interior. Unauthorized import is a serious criminal offense.",
+      "legal_reference": "Federal Law No. 3 of 2009 on Arms, Ammunition, Explosives and Military Equipment",
+      "required_permits": [
+        "Import License from Ministry of Interior",
+        "End-User Certificate",
+        "Security clearance"
+      ],
+      "exemptions": "Government entities, military, licensed security companies only"
+    },
+    {
+      "item_id": "PROH-003",
+      "category": "counterfeit_goods",
+      "item_name": "Counterfeit and pirated goods",
+      "description_en": "Fake branded products, pirated software, counterfeit currency, forged documents, trademark violations",
+      "description_ar": "منتجات مقلدة، برامج مقرصنة، عملات مزيفة",
+      "hs_codes_affected": ["ALL - Any HS code if counterfeit"],
+      "prohibition_level": "ABSOLUTE",
+      "penalty": "Confiscation, heavy fines (up to AED 1 million), imprisonment, deportation for non-citizens",
+      "warning_message": "严禁 COUNTERFEIT GOODS PROHIBITED - UAE has strict intellectual property laws. All counterfeit items will be seized and destroyed.",
+      "legal_reference": "Federal Law No. 37 of 1992 on Trademarks (as amended)",
+      "detection_methods": "Brand authentication, certificate of authenticity verification",
+      "exemptions": "None"
+    },
+    {
+      "item_id": "PROH-004",
+      "category": "obscene_materials",
+      "item_name": "Obscene, pornographic, and immoral materials",
+      "description_en": "Pornographic books, magazines, films, digital media, sex toys, and items contrary to Islamic values",
+      "description_ar": "مواد إباحية وكتب وأفلام مخالفة للقيم الإسلامية",
+      "hs_codes_affected": ["4901", "4911", "8524", "9023"],
+      "prohibition_level": "ABSOLUTE",
+      "penalty": "Confiscation, fines, imprisonment, deportation",
+      "warning_message": "PROHIBITED - Items contrary to UAE Islamic and moral values will be seized and destroyed.",
+      "legal_reference": "Federal Penal Code and UAE Cybercrime Law",
+      "exemptions": "None"
+    },
+    {
+      "item_id": "PROH-005",
+      "category": "endangered_species",
+      "item_name": "Endangered wildlife and products",
+      "description_en": "Ivory, rhino horn, tiger parts, rare animal skins, exotic birds, CITES-listed species without permits",
+      "description_ar": "عاج، قرن وحيد القرن، أجزاء النمور، جلود نادرة",
+      "hs_codes_affected": ["0106", "0407", "0508", "4301", "4302", "9705"],
+      "prohibition_level": "ABSOLUTE_WITHOUT_CITES",
+      "penalty": "Heavy fines, imprisonment, confiscation",
+      "warning_message": "PROTECTED SPECIES - Import prohibited under CITES Convention unless proper permits obtained from Ministry of Climate Change and Environment.",
+      "legal_reference": "CITES (Convention on International Trade in Endangered Species)",
+      "required_permits": [
+        "CITES export permit from country of origin",
+        "CITES import permit from UAE Ministry of Climate Change and Environment"
+      ],
+      "exemptions": "Licensed zoos, research institutions, registered dealers with full CITES documentation"
+    },
+    {
+      "item_id": "PROH-006",
+      "category": "gambling_equipment",
+      "item_name": "Gambling equipment and lottery materials",
+      "description_en": "Slot machines, roulette wheels, poker machines, lottery tickets (except licensed entities)",
+      "description_ar": "معدات المقامرة وآلات القمار",
+      "hs_codes_affected": ["9504.30"],
+      "prohibition_level": "RESTRICTED",
+      "penalty": "Confiscation, fines",
+      "warning_message": "RESTRICTED - Gambling is generally prohibited in UAE. Only licensed entities (casinos in designated zones) may import.",
+      "legal_reference": "UAE Penal Code",
+      "exemptions": "Licensed gaming establishments in authorized zones (Ras Al Khaimah designated areas)"
+    },
+    {
+      "item_id": "PROH-007",
+      "category": "israeli_goods",
+      "item_name": "Goods of Israeli origin (outdated - post Abraham Accords)",
+      "description_en": "Historical boycott lifted in 2020 after Abraham Accords normalization",
+      "description_ar": "المقاطعة التاريخية تم رفعها في 2020 بعد اتفاقيات أبراهام",
+      "hs_codes_affected": ["N/A"],
+      "prohibition_level": "LIFTED",
+      "penalty": "N/A",
+      "warning_message": "NOTICE: Post-2020, Israeli goods are permitted following UAE-Israel normalization (Abraham Accords)",
+      "legal_reference": "Abraham Accords (September 2020)",
+      "exemptions": "All goods from Israel now permitted with normal customs procedures"
+    },
+    {
+      "item_id": "PROH-008",
+      "category": "radioactive_materials",
+      "item_name": "Radioactive and hazardous nuclear materials",
+      "description_en": "Radioactive isotopes, nuclear materials, radioactive waste without authorization",
+      "description_ar": "مواد مشعة ونفايات نووية بدون ترخيص",
+      "hs_codes_affected": ["2844", "2845"],
+      "prohibition_level": "ABSOLUTE_WITHOUT_LICENSE",
+      "penalty": "Severe penalties, criminal prosecution",
+      "warning_message": "HIGHLY RESTRICTED - Requires Federal Authority for Nuclear Regulation (FANR) license. Unauthorized import is a serious crime.",
+      "legal_reference": "Federal Law No. 6 of 2009 on Peaceful Uses of Nuclear Energy",
+      "required_permits": [
+        "FANR import license",
+        "Radiation safety certificate",
+        "End-user documentation"
+      ],
+      "exemptions": "Licensed medical facilities, research institutions, ENEC (Emirates Nuclear Energy Corporation)"
+    },
+    {
+      "item_id": "PROH-009",
+      "category": "religious_materials",
+      "item_name": "Religious materials for proselytizing or offensive to Islam",
+      "description_en": "Materials deemed offensive to Islam or intended for unauthorized religious proselytizing",
+      "description_ar": "مواد دينية مسيئة للإسلام أو للتبشير غير المصرح به",
+      "hs_codes_affected": ["4901.10", "4901.99"],
+      "prohibition_level": "RESTRICTED",
+      "penalty": "Confiscation, fines, possible deportation",
+      "warning_message": "RESTRICTED - Religious materials must respect UAE values. Items for personal use (reasonable quantities) generally permitted.",
+      "legal_reference": "UAE Penal Code and Religious Affairs regulations",
+      "exemptions": "Personal religious items in reasonable quantities for own use"
+    },
+    {
+      "item_id": "PROH-010",
+      "category": "drones_uav",
+      "item_name": "Unauthorized drones and UAVs",
+      "description_en": "Unmanned aerial vehicles, drones, and related equipment without proper authorization",
+      "description_ar": "طائرات بدون طيار بدون ترخيص مناسب",
+      "hs_codes_affected": ["8806.91", "8806.92"],
+      "prohibition_level": "RESTRICTED_LICENSE_REQUIRED",
+      "penalty": "Confiscation, fines up to AED 20,000",
+      "warning_message": "RESTRICTED - All drones must be registered with GCAA (General Civil Aviation Authority). Unauthorized import is prohibited.",
+      "legal_reference": "GCAA Drone Regulations",
+      "required_permits": [
+        "GCAA drone registration",
+        "Import permit for commercial drones"
+      ],
+      "exemptions": "Registered recreational drones under 250g may have simplified procedures"
+    }
+  ],
+  "restricted_items": [
+    {
+      "item_id": "REST-001",
+      "category": "alcohol_tobacco",
+      "item_name": "Alcoholic beverages",
+      "description_en": "Beer, wine, spirits, and all alcoholic drinks",
+      "description_ar": "مشروبات كحولية - بيرة، نبيذ، مشروبات روحية",
+      "hs_codes_affected": ["2203", "2204", "2205", "2206", "2207", "2208"],
+      "restriction_level": "LICENSE_REQUIRED",
+      "penalty": "Confiscation, fines, imprisonment for unauthorized import",
+      "warning_message": "RESTRICTED - Alcohol import requires license. Non-Muslim residents can obtain personal import permit. Commercial import requires liquor license.",
+      "required_permits": [
+        "Alcohol import permit (for personal use)",
+        "Liquor license (for commercial import - hotels, restaurants, specialized retailers)"
+      ],
+      "issuing_authority": "Respective Emirate's Alcohol Control Department (Dubai Police, Abu Dhabi Police, etc.)",
+      "personal_allowance": "4 liters of alcohol OR 24 cans of beer for personal use per month (non-Muslims only)",
+      "additional_requirements": [
+        "Resident visa copy",
+        "NOC from employer (for personal permits)",
+        "Passport copy",
+        "Minimum age 21 years"
+      ],
+      "prohibited_locations": "Emirate of Sharjah (completely dry - no alcohol permitted)",
+      "notes": "Each Emirate has its own alcohol regulations. Sharjah prohibits all alcohol. Dubai and Abu Dhabi allow licensed import."
+    },
+    {
+      "item_id": "REST-002",
+      "category": "alcohol_tobacco",
+      "item_name": "Tobacco products and e-cigarettes",
+      "description_en": "Cigarettes, cigars, tobacco, e-cigarettes, vaping devices, shisha tobacco",
+      "description_ar": "منتجات التبغ، السجائر، الشيشة الإلكترونية",
+      "hs_codes_affected": ["2402", "2403"],
+      "restriction_level": "AGE_RESTRICTED_TAXED",
+      "penalty": "Heavy excise tax applies, confiscation if limits exceeded",
+      "warning_message": "RESTRICTED - Subject to 100% excise tax. Import limits apply.",
+      "required_permits": [
+        "No special permit for personal quantities",
+        "Commercial import requires tax registration"
+      ],
+      "personal_allowance": "400 cigarettes or 2kg of tobacco products for personal use",
+      "excise_tax": "100% on tobacco products, 100% on e-cigarettes and liquids",
+      "additional_requirements": [
+        "Minimum age 18 years",
+        "Excise tax payment before customs clearance",
+        "Health warning labels in Arabic"
+      ],
+      "notes": "E-cigarettes and vaping products recently legalized but heavily taxed. Shisha tobacco popular but taxed."
+    },
+    {
+      "item_id": "REST-003",
+      "category": "pharmaceuticals",
+      "item_name": "Prescription medicines and controlled substances",
+      "description_en": "Prescription drugs, psychotropic medications, controlled medical substances",
+      "description_ar": "أدوية بوصفة طبية، مواد خاضعة للرقابة",
+      "hs_codes_affected": ["3003", "3004"],
+      "restriction_level": "PRESCRIPTION_REQUIRED",
+      "penalty": "Confiscation, fines, possible criminal charges for controlled substances",
+      "warning_message": "RESTRICTED - Prescription required for personal import. Controlled substances require Ministry of Health approval.",
+      "required_permits": [
+        "Valid prescription from licensed doctor",
+        "Ministry of Health approval for controlled/psychotropic medications",
+        "Medication must be in original packaging with pharmacy label"
+      ],
+      "issuing_authority": "Ministry of Health and Prevention (MOHAP)",
+      "personal_allowance": "Up to 3 months supply for personal use with valid prescription",
+      "prohibited_medications": [
+        "Narcotics without MOH approval",
+        "Psychotropic substances (sleeping pills, anxiety medications) without special approval",
+        "Certain pain medications (Tramadol, Codeine) - require advance approval"
+      ],
+      "additional_requirements": [
+        "Doctor's prescription on letterhead",
+        "Medical report for chronic conditions",
+        "Advance approval for controlled medications (apply 2-4 weeks before travel)"
+      ],
+      "notes": "Common pain relievers like Tramadol are controlled. Check MOHAP website for full list of controlled medications."
+    },
+    {
+      "item_id": "REST-004",
+      "category": "food_agriculture",
+      "item_name": "Live animals and plants",
+      "description_en": "Pets, livestock, birds, plants, seeds, agricultural products",
+      "description_ar": "حيوانات حية، نباتات، بذور",
+      "hs_codes_affected": ["0101-0106", "0601-0604"],
+      "restriction_level": "PERMIT_REQUIRED",
+      "penalty": "Quarantine, confiscation, fines",
+      "warning_message": "RESTRICTED - Requires import permit, health certificate, and quarantine procedures.",
+      "required_permits": [
+        "Import permit from Ministry of Climate Change and Environment (MOCCAE)",
+        "Veterinary health certificate from country of origin",
+        "Phytosanitary certificate (for plants)",
+        "Microchip for pets",
+        "Rabies vaccination certificate (min 30 days old, max 1 year)"
+      ],
+      "issuing_authority": "Ministry of Climate Change and Environment",
+      "quarantine_requirements": "Quarantine period may apply (varies by species and origin)",
+      "prohibited_breeds": [
+        "Dangerous dog breeds (Pit Bull, American Staffordshire Terrier, etc.)",
+        "Invasive plant species"
+      ],
+      "additional_requirements": [
+        "Pet passport",
+        "Blood test results (for certain animals)",
+        "Import must be through designated ports with quarantine facilities"
+      ],
+      "notes": "Dubai has specific regulations for pet import. Some dog breeds are banned."
+    },
+    {
+      "item_id": "REST-005",
+      "category": "precious_metals",
+      "item_name": "Gold, silver, and precious metals (large quantities)",
+      "description_en": "Bullion, gold bars, large quantities of precious metals for commercial purposes",
+      "description_ar": "سبائك ذهب، معادن ثمينة بكميات كبيرة",
+      "hs_codes_affected": ["7108", "7106", "7107", "7110"],
+      "restriction_level": "DECLARATION_REGISTRATION_REQUIRED",
+      "penalty": "Confiscation, money laundering investigation if not declared",
+      "warning_message": "MUST DECLARE - All precious metals must be declared. Commercial import requires special registration.",
+      "required_permits": [
+        "Declaration to customs",
+        "Commercial import license for dealers",
+        "Registration with DMCC (Dubai Multi Commodities Centre) for gold trade",
+        "Source of funds documentation"
+      ],
+      "issuing_authority": "Dubai Multi Commodities Centre (DMCC), Ministry of Economy",
+      "declaration_threshold": "All quantities must be declared, especially over AED 60,000 (USD 16,000)",
+      "additional_requirements": [
+        "Proof of purchase / origin",
+        "Anti-money laundering compliance",
+        "Know Your Customer (KYC) documentation for large amounts",
+        "Assay certificate for bullion"
+      ],
+      "vat_treatment": "Investment gold (purity >99%) is VAT zero-rated",
+      "notes": "UAE is major gold trading hub. Legitimate trade welcomed but must follow AML/KYC procedures."
+    },
+    {
+      "item_id": "REST-006",
+      "category": "telecommunications",
+      "item_name": "Telecommunication equipment",
+      "description_en": "Radio transmitters, satellite equipment, encryption devices, wireless communication devices",
+      "description_ar": "معدات اتصالات، أجهزة إرسال لاسلكية",
+      "hs_codes_affected": ["8517", "8525", "8526", "8527", "8529"],
+      "restriction_level": "PERMIT_REQUIRED",
+      "penalty": "Confiscation, fines",
+      "warning_message": "RESTRICTED - Requires TDRA (Telecommunications and Digital Government Regulatory Authority) approval for certain equipment.",
+      "required_permits": [
+        "TDRA type approval for wireless devices",
+        "Import permit for satellite equipment",
+        "Special license for encryption devices"
+      ],
+      "issuing_authority": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
+      "additional_requirements": [
+        "Technical specifications",
+        "Frequency coordination",
+        "Compliance with UAE wireless standards"
+      ],
+      "exemptions": "Consumer devices (smartphones, WiFi routers) generally exempt if type-approved",
+      "notes": "Professional radio equipment, satellite phones, high-power transmitters require permits"
+    },
+    {
+      "item_id": "REST-007",
+      "category": "chemical_hazmat",
+      "item_name": "Hazardous chemicals and materials",
+      "description_en": "Toxic chemicals, corrosive substances, flammable materials, industrial chemicals",
+      "description_ar": "مواد كيميائية خطرة، مواد سامة",
+      "hs_codes_affected": ["2801-2853", "3808", "3824"],
+      "restriction_level": "PERMIT_MSDS_REQUIRED",
+      "penalty": "Confiscation, heavy fines, environmental penalties",
+      "warning_message": "RESTRICTED - Requires permits, MSDS, and compliance with UAE hazmat regulations.",
+      "required_permits": [
+        "Import permit from relevant authorities (varies by chemical)",
+        "Material Safety Data Sheet (MSDS) in English and Arabic",
+        "Hazmat transport documentation",
+        "End-user certificate"
+      ],
+      "issuing_authority": "Ministry of Climate Change and Environment, Local Environmental Authorities",
+      "additional_requirements": [
+        "MSDS in Arabic and English",
+        "Proper hazmat labeling (GHS compliant)",
+        "Transport classification",
+        "Storage plan and safety measures",
+        "Emergency response procedures"
+      ],
+      "prohibited_chemicals": [
+        "Ozone-depleting substances (CFCs) - under Montreal Protocol",
+        "Certain pesticides and toxic chemicals - check Stockholm Convention list"
+      ],
+      "notes": "UAE strictly regulates hazmat. Full compliance with GHS and local environmental laws required."
+    },
+    {
+      "item_id": "REST-008",
+      "category": "food_supplements",
+      "item_name": "Dietary supplements and vitamins",
+      "description_en": "Food supplements, vitamins, protein powders, herbal supplements",
+      "description_ar": "مكملات غذائية، فيتامينات",
+      "hs_codes_affected": ["2106.90", "2936"],
+      "restriction_level": "REGISTRATION_REQUIRED",
+      "penalty": "Confiscation if not registered or banned ingredients found",
+      "warning_message": "RESTRICTED - Must be registered with ESMA. Check for prohibited ingredients (ephedra, DMAA, etc.).",
+      "required_permits": [
+        "Product registration with Emirates Authority for Standardization and Metrology (ESMA)",
+        "Halal certificate (preferred)",
+        "Certificate of Analysis"
+      ],
+      "issuing_authority": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "prohibited_ingredients": [
+        "Ephedra / Ephedrine",
+        "DMAA (1,3-dimethylamylamine)",
+        "Sibutramine",
+        "Phenolphthalein",
+        "Certain steroids and pro-hormones"
+      ],
+      "personal_allowance": "Up to 3 months supply for personal use (no registration needed)",
+      "additional_requirements": [
+        "Ingredient list in Arabic",
+        "Halal certification for Muslim consumers",
+        "No false health claims",
+        "Original sealed packaging"
+      ],
+      "notes": "Bodybuilding supplements popular but heavily scrutinized. Check ESMA banned list before import."
+    },
+    {
+      "item_id": "REST-009",
+      "category": "cosmetics_medical",
+      "item_name": "Cosmetic surgery devices and injectables",
+      "description_en": "Botox, dermal fillers, cosmetic injectables, laser devices",
+      "description_ar": "بوتوكس، حشوات جلدية، أجهزة تجميل",
+      "hs_codes_affected": ["3004.50", "9018.90"],
+      "restriction_level": "MOH_LICENSE_REQUIRED",
+      "penalty": "Confiscation, heavy fines, clinic closure if used without license",
+      "warning_message": "HIGHLY RESTRICTED - Only licensed medical facilities can import. Requires Ministry of Health approval.",
+      "required_permits": [
+        "Medical facility license",
+        "Ministry of Health import permit",
+        "Product registration",
+        "Qualified medical practitioner license"
+      ],
+      "issuing_authority": "Ministry of Health and Prevention, Dubai Health Authority (DHA), Abu Dhabi DOH",
+      "additional_requirements": [
+        "Only approved brands allowed",
+        "Temperature-controlled shipping",
+        "Chain of custody documentation",
+        "End-user must be licensed medical facility"
+      ],
+      "notes": "Cosmetic procedures highly regulated. Only licensed clinics with qualified doctors can import and administer."
+    },
+    {
+      "item_id": "REST-010",
+      "category": "drones_tech",
+      "item_name": "Commercial drones and professional UAVs",
+      "description_en": "Professional drones, commercial UAVs, drone cameras for surveying/filming",
+      "description_ar": "طائرات بدون طيار تجارية",
+      "hs_codes_affected": ["8806.91", "8806.92"],
+      "restriction_level": "REGISTRATION_LICENSE_REQUIRED",
+      "penalty": "Confiscation, fines up to AED 20,000",
+      "warning_message": "RESTRICTED - Must register with GCAA. Flying without registration/license is illegal and heavily fined.",
+      "required_permits": [
+        "GCAA drone registration",
+        "Operator license (for commercial use)",
+        "Flight approval for each operation"
+      ],
+      "issuing_authority": "General Civil Aviation Authority (GCAA)",
+      "exemptions": "Recreational drones under 250g have simplified registration",
+      "additional_requirements": [
+        "Operator training certificate (for commercial)",
+        "Insurance (for commercial operations)",
+        "Flight plan approval for each flight",
+        "No-fly zone compliance (airports, government buildings, etc.)"
+      ],
+      "no_fly_zones": "15km around airports, government facilities, royal palaces, military areas",
+      "notes": "Dubai and Abu Dhabi have drone detection systems. Unauthorized flights detected and penalized quickly."
+    },
+    {
+      "item_id": "REST-011",
+      "category": "financial",
+      "item_name": "Currency exceeding AED 60,000 (or equivalent)",
+      "description_en": "Cash, bearer bonds, travelers cheques exceeding declaration threshold",
+      "description_ar": "عملات نقدية تتجاوز 60,000 درهم",
+      "hs_codes_affected": ["N/A"],
+      "restriction_level": "DECLARATION_REQUIRED",
+      "penalty": "Confiscation, money laundering investigation, heavy fines",
+      "warning_message": "MUST DECLARE - Amounts over AED 60,000 (or equivalent ~USD 16,000) must be declared to customs.",
+      "required_permits": [
+        "Cash Declaration Form (at customs)"
+      ],
+      "issuing_authority": "UAE Federal Customs Authority",
+      "declaration_threshold": "AED 60,000 or foreign currency equivalent (~USD 16,000)",
+      "additional_requirements": [
+        "Source of funds documentation may be requested",
+        "Purpose of carrying cash",
+        "Anti-money laundering compliance"
+      ],
+      "notes": "Failure to declare can result in full confiscation. UAE takes AML very seriously."
+    },
+    {
+      "item_id": "REST-012",
+      "category": "food_agriculture",
+      "item_name": "Pork and pork products",
+      "description_en": "Pork meat, bacon, ham, lard, pork-containing food products",
+      "description_ar": "لحم خنزير ومنتجاته",
+      "hs_codes_affected": ["0203", "0206.30", "0206.41", "0210.11", "0210.12", "1501"],
+      "restriction_level": "DESIGNATED_OUTLETS_ONLY",
+      "penalty": "Confiscation if imported for unauthorized use",
+      "warning_message": "RESTRICTED - Pork import permitted only for licensed non-Muslim outlets and hotels.",
+      "required_permits": [
+        "Special pork import license (for designated retailers)",
+        "License to sell pork (hotels, specialized shops)"
+      ],
+      "issuing_authority": "Municipality (varies by Emirate)",
+      "personal_allowance": "Small quantities for personal consumption by non-Muslims generally allowed (check with customs)",
+      "additional_requirements": [
+        "Must be sold in designated sections separated from halal products",
+        "Clear 'Pork' labeling",
+        "Separate storage and handling"
+      ],
+      "designated_outlets": "Specific licensed stores (e.g., Spinney's pork section, certain hotel restaurants)",
+      "notes": "Available in Dubai and Abu Dhabi in designated sections. Completely prohibited in Sharjah."
+    }
+  ],
+  "general_compliance_notes": {
+    "declaration_principle": "When in doubt, declare. Non-declaration is worse than declaring and being rejected.",
+    "documentation": "Always carry proper documentation (invoices, certificates, permits) with shipments.",
+    "advance_approval": "For restricted items, apply for permits BEFORE shipping to avoid delays and costs.",
+    "customs_inspection": "UAE Customs uses advanced scanning and inspection. Concealment attempts are detected and penalized.",
+    "penalties": "Penalties range from fines to confiscation to criminal prosecution depending on violation severity.",
+    "legal_advice": "For commercial imports of sensitive items, consult with customs broker or legal advisor.",
+    "resources": [
+      "UAE Federal Customs Authority: https://www.fca.gov.ae",
+      "Dubai Customs: https://www.dubaicustoms.gov.ae",
+      "Abu Dhabi Customs: https://www.adcustoms.gov.ae",
+      "Ministry of Health (MOHAP): https://www.mohap.gov.ae",
+      "ESMA: https://www.esma.gov.ae",
+      "TDRA: https://tdra.gov.ae"
+    ]
+  },
+  "red_flag_keywords": {
+    "description": "Keywords that trigger additional scrutiny during AI classification",
+    "keywords": [
+      "narcotic",
+      "drug",
+      "cannabis",
+      "marijuana",
+      "cocaine",
+      "heroin",
+      "weapon",
+      "gun",
+      "firearm",
+      "explosive",
+      "ammunition",
+      "counterfeit",
+      "fake",
+      "replica",
+      "pornographic",
+      "obscene",
+      "ivory",
+      "rhino horn",
+      "endangered",
+      "gambling",
+      "casino",
+      "slot machine",
+      "radioactive",
+      "nuclear",
+      "uranium",
+      "plutonium"
+    ],
+    "action_on_detection": "Flag for immediate human review, provide prohibition warning"
+  }
+}

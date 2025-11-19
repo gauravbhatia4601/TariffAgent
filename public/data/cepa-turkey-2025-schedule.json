@@ -1,0 +1,44 @@
+[
+  {
+    "hs_prefix": "03",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Fish and seafood products"
+  },
+  {
+    "hs_prefix": "08",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Fruits and nuts"
+  },
+  {
+    "hs_prefix": "16",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Prepared meat and fish"
+  },
+  {
+    "hs_prefix": "50",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Silk and silk products"
+  },
+  {
+    "hs_prefix": "51",
+    "cepa_2025_duty": 1.0,
+    "base_duty": 5.0,
+    "note": "Wool and wool products"
+  },
+  {
+    "hs_prefix": "71",
+    "cepa_2025_duty": 0.0,
+    "base_duty": 5.0,
+    "note": "Gold and jewellery"
+  },
+  {
+    "hs_prefix": "default",
+    "cepa_2025_duty": null,
+    "note": "No CEPA benefit – use standard GCC rate"
+  }
+]
+

@@ -1,0 +1,78 @@
+[
+  {
+    "keyword": "pork",
+    "type": "prohibited",
+    "warning": "Pork and pork products prohibited except for personal use by non-Muslims with proper documentation"
+  },
+  {
+    "keyword": "alcohol",
+    "type": "restricted",
+    "warning": "Requires liquor license and duty payment. Only licensed importers/distributors may import"
+  },
+  {
+    "keyword": "narcotic",
+    "type": "prohibited",
+    "warning": "Narcotics and psychotropic substances strictly prohibited. Severe criminal penalties apply"
+  },
+  {
+    "keyword": "drone",
+    "type": "restricted",
+    "warning": "Requires GCAA (General Civil Aviation Authority) and MoI (Ministry of Interior) approval"
+  },
+  {
+    "keyword": "vape",
+    "type": "restricted",
+    "warning": "E-cigarettes and vaping products require ESMA (Emirates Authority for Standardization) certification"
+  },
+  {
+    "keyword": "israel",
+    "type": "prohibited",
+    "warning": "Goods of Israeli origin or bearing Israeli trademarks prohibited under UAE law"
+  },
+  {
+    "keyword": "cbd",
+    "type": "prohibited",
+    "warning": "CBD and THC products banned. No exceptions"
+  },
+  {
+    "keyword": "hogwarts",
+    "type": "prohibited",
+    "warning": "Items promoting witchcraft or magic prohibited (UAE Federal Law)"
+  },
+  {
+    "keyword": "cannabis",
+    "type": "prohibited",
+    "warning": "Cannabis and all derivatives strictly prohibited"
+  },
+  {
+    "keyword": "weapon",
+    "type": "restricted",
+    "warning": "Firearms and weapons require special permits from Ministry of Interior"
+  },
+  {
+    "keyword": "explosive",
+    "type": "restricted",
+    "warning": "Explosives require special permits and security clearance"
+  },
+  {
+    "keyword": "pornography",
+    "type": "prohibited",
+    "warning": "Pornographic materials strictly prohibited"
+  },
+  {
+    "keyword": "gambling",
+    "type": "prohibited",
+    "warning": "Gambling equipment and materials prohibited"
+  },
+  {
+    "keyword": "lard",
+    "type": "prohibited",
+    "warning": "Pork lard and pork-derived products prohibited"
+  },
+  {
+    "keyword": "beef",
+    "type": "restricted",
+    "warning": "Beef imports require halal certification and health certificates"
+  }
+]
+

@@ -1,0 +1,542 @@
+{
+  "metadata": {
+    "version": "2025.1",
+    "effective_date": "2025-01-01",
+    "source": "GCC Common Customs Tariff",
+    "currency": "AED",
+    "description": "UAE/GCC Harmonized System tariff codes with standard duty rates",
+    "last_updated": "2025-01-15"
+  },
+  "tariff_items": [
+    {
+      "hs_code": "8517.12.00.0000",
+      "category": "electronics",
+      "description_en": "Smartphones and other cellular network telephones",
+      "description_ar": "الهواتف الذكية وهواتف الشبكات الخلوية الأخرى",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Certificate of Conformity required from ESMA"
+    },
+    {
+      "hs_code": "8471.30.00.0000",
+      "category": "electronics",
+      "description_en": "Portable automatic data processing machines, weighing not more than 10 kg (laptops, tablets)",
+      "description_ar": "آلات معالجة البيانات المحمولة، لا يتجاوز وزنها 10 كجم",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "TDRA approval required for wireless devices"
+    },
+    {
+      "hs_code": "8528.72.00.0000",
+      "category": "electronics",
+      "description_en": "LED televisions and monitors",
+      "description_ar": "أجهزة تلفزيون وشاشات LED",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Energy efficiency labeling required"
+    },
+    {
+      "hs_code": "8504.40.00.0000",
+      "category": "electronics",
+      "description_en": "Static converters (UPS, battery chargers, power adapters)",
+      "description_ar": "محولات ثابتة (UPS، شواحن البطاريات، محولات الطاقة)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "ESMA certification required"
+    },
+    {
+      "hs_code": "8525.80.00.0000",
+      "category": "electronics",
+      "description_en": "Digital cameras and video camera recorders",
+      "description_ar": "كاميرات رقمية ومسجلات فيديو",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": null
+    },
+    {
+      "hs_code": "6203.42.00.0000",
+      "category": "textiles",
+      "description_en": "Men's or boys' trousers and shorts, of cotton",
+      "description_ar": "بنطلونات وشورتات رجالية أو للأولاد، من قطن",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number/Dozen (DZN)",
+      "additional_notes": "Textile labeling requirements apply"
+    },
+    {
+      "hs_code": "6109.10.00.0000",
+      "category": "textiles",
+      "description_en": "T-shirts, singlets and other vests, of cotton, knitted or crocheted",
+      "description_ar": "قمصان تي شيرت وقمصان داخلية من قطن محبوك",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number/Dozen (DZN)",
+      "additional_notes": "Country of origin marking required"
+    },
+    {
+      "hs_code": "6204.62.00.0000",
+      "category": "textiles",
+      "description_en": "Women's or girls' trousers and shorts, of cotton",
+      "description_ar": "بنطلونات وشورتات نسائية أو للبنات، من قطن",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number/Dozen (DZN)",
+      "additional_notes": "Textile labeling requirements apply"
+    },
+    {
+      "hs_code": "6302.60.00.0000",
+      "category": "textiles",
+      "description_en": "Toilet linen and kitchen linen, of terry towelling or similar terry fabrics, of cotton",
+      "description_ar": "مناشف حمام ومطبخ من قطن",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": null
+    },
+    {
+      "hs_code": "5801.33.00.0000",
+      "category": "textiles",
+      "description_en": "Weft pile fabrics of synthetic fibres (carpets, rugs)",
+      "description_ar": "أقمشة وبرية من ألياف تركيبية (سجاد، بسط)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Square Meter (M2)",
+      "additional_notes": "Fire safety standards apply for commercial use"
+    },
+    {
+      "hs_code": "7113.19.00.0000",
+      "category": "gems_jewellery",
+      "description_en": "Articles of jewellery of precious metal other than silver",
+      "description_ar": "مصنوعات من معادن ثمينة غير الفضة",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Hallmarking required, import license from Ministry of Economy"
+    },
+    {
+      "hs_code": "7102.39.00.0000",
+      "category": "gems_jewellery",
+      "description_en": "Non-industrial diamonds, unworked or simply sawn, cleaved or bruted",
+      "description_ar": "ماسات غير صناعية، غير مشغولة أو مقطوعة ببساطة",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Carat (CT)",
+      "additional_notes": "Kimberley Process certificate required, registration with DMCC"
+    },
+    {
+      "hs_code": "7103.91.00.0000",
+      "category": "gems_jewellery",
+      "description_en": "Rubies, sapphires and emeralds, worked",
+      "description_ar": "ياقوت أحمر وياقوت أزرق وزمرد، مشغول",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Carat (CT)",
+      "additional_notes": "Certificate of authenticity recommended"
+    },
+    {
+      "hs_code": "7114.11.00.0000",
+      "category": "gems_jewellery",
+      "description_en": "Articles of goldsmiths' or silversmiths' wares of silver",
+      "description_ar": "مصنوعات من الفضة",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Hallmarking required for items over certain weight"
+    },
+    {
+      "hs_code": "7108.13.00.0000",
+      "category": "gems_jewellery",
+      "description_en": "Gold in semi-manufactured forms",
+      "description_ar": "ذهب بأشكال نصف مصنعة",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Investment gold - Zero-rated for VAT, requires Central Bank documentation"
+    },
+    {
+      "hs_code": "0901.21.00.0000",
+      "category": "food_items",
+      "description_en": "Coffee, roasted, not decaffeinated",
+      "description_ar": "بن محمص، غير منزوع الكافيين",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Food safety certificate required, zero-rated VAT for basic foodstuffs"
+    },
+    {
+      "hs_code": "0902.30.00.0000",
+      "category": "food_items",
+      "description_en": "Black tea (fermented) in immediate packings of a content not exceeding 3 kg",
+      "description_ar": "شاي أسود في عبوات لا تتجاوز 3 كجم",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "ESMA food safety approval required"
+    },
+    {
+      "hs_code": "0904.21.00.0000",
+      "category": "food_items",
+      "description_en": "Fruits of the genus Capsicum, dried, crushed or ground (chili powder, paprika)",
+      "description_ar": "فلفل حار مجفف، مطحون",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Phytosanitary certificate required"
+    },
+    {
+      "hs_code": "0908.31.00.0000",
+      "category": "food_items",
+      "description_en": "Cardamom, neither crushed nor ground",
+      "description_ar": "هيل، غير مطحون",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Certificate of origin required"
+    },
+    {
+      "hs_code": "1006.30.00.0000",
+      "category": "food_items",
+      "description_en": "Semi-milled or wholly milled rice (Basmati, white rice)",
+      "description_ar": "أرز نصف مطحون أو مطحون كلياً (بسمتي، أرز أبيض)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Food safety certificate required"
+    },
+    {
+      "hs_code": "1704.90.00.0000",
+      "category": "food_items",
+      "description_en": "Sugar confectionery not containing cocoa (candies, sweets)",
+      "description_ar": "حلويات سكرية لا تحتوي على كاكاو",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Nutritional labeling in Arabic required"
+    },
+    {
+      "hs_code": "2103.90.00.0000",
+      "category": "food_items",
+      "description_en": "Sauces and preparations (ketchup, mayonnaise, salad dressings)",
+      "description_ar": "صلصات ومستحضرات (كاتشب، مايونيز)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Halal certification preferred, ingredient list in Arabic"
+    },
+    {
+      "hs_code": "8413.70.00.0000",
+      "category": "machinery",
+      "description_en": "Centrifugal pumps for liquids",
+      "description_ar": "مضخات نابذة للسوائل",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "ESMA compliance certificate required for industrial equipment"
+    },
+    {
+      "hs_code": "8414.30.00.0000",
+      "category": "machinery",
+      "description_en": "Compressors of a kind used in refrigerating equipment",
+      "description_ar": "ضواغط من النوع المستخدم في معدات التبريد",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Energy efficiency standards apply"
+    },
+    {
+      "hs_code": "8419.50.00.0000",
+      "category": "machinery",
+      "description_en": "Heat exchange units (industrial cooling systems)",
+      "description_ar": "وحدات تبادل الحرارة (أنظمة التبريد الصناعية)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Installation manual in Arabic required"
+    },
+    {
+      "hs_code": "8428.32.00.0000",
+      "category": "machinery",
+      "description_en": "Elevators and conveyors, continuous action, for goods or materials",
+      "description_ar": "مصاعد وناقلات مستمرة للبضائع أو المواد",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Safety certification from recognized body required"
+    },
+    {
+      "hs_code": "8479.89.00.0000",
+      "category": "machinery",
+      "description_en": "Machines and mechanical appliances having individual functions, not elsewhere specified",
+      "description_ar": "آلات وأجهزة ميكانيكية ذات وظائف فردية، غير مذكورة في مكان آخر",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Technical specifications and manuals required"
+    },
+    {
+      "hs_code": "8501.53.00.0000",
+      "category": "machinery",
+      "description_en": "Electric motors of an output exceeding 75 kW",
+      "description_ar": "محركات كهربائية تزيد قدرتها عن 75 كيلوواط",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "ESMA certificate of conformity required"
+    },
+    {
+      "hs_code": "8708.29.00.0000",
+      "category": "automotive_parts",
+      "description_en": "Other parts and accessories of motor vehicle bodies (doors, bumpers, fenders)",
+      "description_ar": "أجزاء أخرى من هياكل المركبات (أبواب، مصدات)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Original parts preferred, quality certification required"
+    },
+    {
+      "hs_code": "8708.30.00.0000",
+      "category": "automotive_parts",
+      "description_en": "Brakes and servo-brakes and parts thereof",
+      "description_ar": "فرامل وأجزاؤها",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Safety standards certification required"
+    },
+    {
+      "hs_code": "8708.40.00.0000",
+      "category": "automotive_parts",
+      "description_en": "Gear boxes and parts thereof",
+      "description_ar": "علب تروس وأجزاؤها",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "OEM certification preferred"
+    },
+    {
+      "hs_code": "8708.99.00.0000",
+      "category": "automotive_parts",
+      "description_en": "Other parts and accessories of motor vehicles",
+      "description_ar": "أجزاء أخرى من المركبات الآلية",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Certificate of conformity required"
+    },
+    {
+      "hs_code": "8511.50.00.0000",
+      "category": "automotive_parts",
+      "description_en": "Electric generators (alternators) for vehicles",
+      "description_ar": "مولدات كهربائية (دينامو) للمركبات",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Quality certification required"
+    },
+    {
+      "hs_code": "4011.10.00.0000",
+      "category": "automotive_parts",
+      "description_en": "New pneumatic tyres, of rubber, for passenger cars",
+      "description_ar": "إطارات هوائية جديدة من مطاط للسيارات الركاب",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "ESMA certification and labeling required"
+    },
+    {
+      "hs_code": "3304.99.00.0000",
+      "category": "cosmetics",
+      "description_en": "Beauty or make-up preparations (other than lip and eye preparations)",
+      "description_ar": "مستحضرات تجميل أو مكياج (غير مستحضرات الشفاه والعيون)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "MOH cosmetics registration required, ingredient list in Arabic"
+    },
+    {
+      "hs_code": "3305.10.00.0000",
+      "category": "cosmetics",
+      "description_en": "Shampoos",
+      "description_ar": "شامبو",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "MOH registration, Arabic labeling required"
+    },
+    {
+      "hs_code": "3307.20.00.0000",
+      "category": "cosmetics",
+      "description_en": "Personal deodorants and antiperspirants",
+      "description_ar": "مزيلات العرق ومضادات التعرق",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "MOH approval required"
+    },
+    {
+      "hs_code": "3303.00.00.0000",
+      "category": "cosmetics",
+      "description_en": "Perfumes and toilet waters",
+      "description_ar": "عطور ومياه عطرية",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "MOH registration, alcohol content declaration required"
+    },
+    {
+      "hs_code": "3401.30.00.0000",
+      "category": "cosmetics",
+      "description_en": "Organic surface-active products for skin washing (body wash, liquid soap)",
+      "description_ar": "منتجات تنظيف البشرة (غسول الجسم، صابون سائل)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "ESMA standards compliance required"
+    },
+    {
+      "hs_code": "9403.60.00.0000",
+      "category": "furniture",
+      "description_en": "Other wooden furniture (tables, chairs, cabinets)",
+      "description_ar": "أثاث خشبي آخر (طاولات، كراسي، خزائن)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Certificate of wood origin required, no endangered species"
+    },
+    {
+      "hs_code": "9404.21.00.0000",
+      "category": "furniture",
+      "description_en": "Mattresses of cellular rubber or plastics",
+      "description_ar": "مراتب من مطاط أو لدائن خلوية",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Fire safety standards required"
+    },
+    {
+      "hs_code": "9403.20.00.0000",
+      "category": "furniture",
+      "description_en": "Other metal furniture (office furniture, shelving)",
+      "description_ar": "أثاث معدني آخر (أثاث مكتبي، رفوف)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Safety certification for commercial use"
+    },
+    {
+      "hs_code": "9405.20.00.0000",
+      "category": "furniture",
+      "description_en": "Electric table, desk, bedside or floor-standing lamps",
+      "description_ar": "مصابيح كهربائية للطاولة أو السرير أو الأرض",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "ESMA electrical safety certification required"
+    },
+    {
+      "hs_code": "9401.80.00.0000",
+      "category": "furniture",
+      "description_en": "Other seats (office chairs, dining chairs)",
+      "description_ar": "مقاعد أخرى (كراسي مكتب، كراسي طعام)",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Ergonomic certification for office furniture recommended"
+    },
+    {
+      "hs_code": "8716.80.00.0000",
+      "category": "machinery",
+      "description_en": "Hand trucks and other vehicles not mechanically propelled (trolleys, carts)",
+      "description_ar": "عربات يدوية ومركبات أخرى غير مزودة بمحرك",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Safety standards for industrial use"
+    },
+    {
+      "hs_code": "8481.80.00.0000",
+      "category": "machinery",
+      "description_en": "Taps, cocks, valves for pipes, tanks (plumbing fixtures)",
+      "description_ar": "صنابير وصمامات للأنابيب والخزانات",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Quality certification required"
+    },
+    {
+      "hs_code": "6214.10.00.0000",
+      "category": "textiles",
+      "description_en": "Shawls, scarves, mufflers of silk or silk waste",
+      "description_ar": "شالات ووشاحات من حرير",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "Fiber content labeling required"
+    },
+    {
+      "hs_code": "0713.33.00.0000",
+      "category": "food_items",
+      "description_en": "Kidney beans, including white pea beans, dried shelled",
+      "description_ar": "فاصوليا، بما في ذلك الفاصوليا البيضاء، مجففة مقشرة",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Phytosanitary certificate required"
+    },
+    {
+      "hs_code": "1701.99.00.0000",
+      "category": "food_items",
+      "description_en": "Other cane or beet sugar",
+      "description_ar": "سكر القصب أو الشمندر الآخر",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 0.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Certificate of analysis required"
+    },
+    {
+      "hs_code": "8507.60.00.0000",
+      "category": "electronics",
+      "description_en": "Lithium-ion batteries (for phones, laptops, EVs)",
+      "description_ar": "بطاريات ليثيوم أيون",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Number (NO)",
+      "additional_notes": "UN38.3 certification required, IATA dangerous goods compliance for air shipment"
+    },
+    {
+      "hs_code": "2710.19.00.0000",
+      "category": "automotive_parts",
+      "description_en": "Motor vehicle lubricating oils and greases",
+      "description_ar": "زيوت تشحيم المركبات والشحوم",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Liter (L)",
+      "additional_notes": "ESMA specifications, MSDS required"
+    },
+    {
+      "hs_code": "7326.90.00.0000",
+      "category": "machinery",
+      "description_en": "Other articles of iron or steel (fasteners, brackets, fittings)",
+      "description_ar": "مصنوعات أخرى من حديد أو صلب",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Quality certificate for structural components"
+    },
+    {
+      "hs_code": "3926.90.00.0000",
+      "category": "machinery",
+      "description_en": "Other articles of plastics (plastic containers, fittings)",
+      "description_ar": "مصنوعات أخرى من لدائن",
+      "standard_duty_rate": 5.0,
+      "vat_rate": 5.0,
+      "unit_of_measure": "Kilogram (KG)",
+      "additional_notes": "Food-grade certification if for food contact"
+    }
+  ]
+}
