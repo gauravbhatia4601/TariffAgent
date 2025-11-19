@@ -202,6 +202,6 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for UAE Importers**
+**Built with trust for UAE Importers**
 
 *Powered by Google Gemini 2.5 Pro 🤖*
